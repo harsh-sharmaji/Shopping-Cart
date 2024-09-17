@@ -1,7 +1,3 @@
-Congratulations on finishing the project! Here’s a beautifully structured README file template for your project:
-
----
-
 # **Shopping Cart Web Application**
 
 Welcome to the **Shopping Cart Web Application**. This project demonstrates an interactive and responsive shopping platform where users can browse products, add them to a cart, and apply various filters for a better shopping experience. Built using React.js, it is designed to provide a seamless user interface with essential e-commerce functionalities.
@@ -94,10 +90,3 @@ Welcome to the **Shopping Cart Web Application**. This project demonstrates an i
 - Add search functionality for products.
 - Introduce more advanced filtering options, such as price range sliders.
 
-## **Contributing**
-
-Feel free to contribute to this project by submitting issues or pull requests. Please make sure to follow the [code of conduct](./CODE_OF_CONDUCT.md) and adhere to the contribution guidelines.
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.

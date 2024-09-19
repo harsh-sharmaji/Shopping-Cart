@@ -1,6 +1,7 @@
 import { Card, Button } from "react-bootstrap";
 import { CartState } from "../context/Context";
 import Rating from "./Rating";
+import { Link } from 'react-router-dom';
 
 const SingleProduct = ({ prod }) => {
   const {
@@ -23,6 +24,9 @@ const SingleProduct = ({ prod }) => {
             )}
             <Rating rating={prod.ratings} />
           </Card.Subtitle>
+          <Link to={`/product/${prod.id}`}>
+          <Button variant="primary" className="me-2">View Details</Button>
+          </Link>
           {cart.some((p) => p.id === prod.id) ? (
             <Button
               variant="danger"

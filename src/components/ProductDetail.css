@@ -1,0 +1,12 @@
+.product-image-card {
+    border: 1px solid #ddd; /* Light border for the card */
+    border-radius: 8px; /* Rounded corners for the card */
+    overflow: hidden; /* Hide any overflow from rounded corners */
+  }
+  
+  .product-image {
+    object-fit: cover; /* Ensures the image covers the card area without distortion */
+    height: 100%; /* Adjust height as needed */
+    width: 100%; /* Full width of the card */
+  }
+  

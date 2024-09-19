@@ -90,6 +90,5 @@ Welcome to the **Shopping Cart Web Application**. This project demonstrates an i
 ## **Future Improvements**
 
 - Implement a backend to handle product data, authentication, and order management.
-- Add search functionality for products.
-- Introduce more advanced filtering options, such as price range sliders.
+
 
